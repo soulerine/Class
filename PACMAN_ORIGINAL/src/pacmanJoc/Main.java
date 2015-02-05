@@ -11,7 +11,7 @@ public class Main {
 				
 		table.impimeixtaula();
 		
-		System.out.println("hola i adeu");
+		System.out.println("hola i adeu2");
 		
 		
 		
